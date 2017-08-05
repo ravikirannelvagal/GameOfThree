@@ -1,0 +1,6 @@
+com\GOT\core\GameOptions.class
+com\GOT\core\GamePlayer.class
+com\GOT\utils\StartGOT.class
+com\GOT\core\GameManager.class
+com\GOT\core\GameRunner.class
+com\GOT\utils\SpringBootGOT.class
